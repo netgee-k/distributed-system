@@ -1,4 +1,4 @@
 [run]
 omit =
     /Users/*/Library/*
-    ./web-gui/tests/*
+    ./tests/*

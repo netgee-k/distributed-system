@@ -1,13 +1,14 @@
-# Files
-*.db
 *.pyc
-
-# Directories
-venv/
-byob/data/
-byob/modules/clients/
-
-# Test configs
-.coveralls.yaml
-.coverage
-.coveragerc
+*.db
+*.rdb
+*.log
+*.txt
+*.pcap
+*.avi
+.vscode/
+payloads/
+stagers/
+output/
+__pycache__/
+byob-app-local-env/
+.DS_Store
